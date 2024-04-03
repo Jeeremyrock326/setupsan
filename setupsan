@@ -1,4 +1,4 @@
-local walkSpeed = 32
+local walkSpeed = 100
 
 
 
