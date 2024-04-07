@@ -2,6 +2,7 @@ local module = {}
  
 function module.DisableAC()
  
+ game.Players.LocalPlayer:Kick(hey guys, its jeremyrock326, i am currently fixing the bug, come back tommorow")
  
 --███████╗████████╗ ██████╗ ██████╗ ███╗   ███╗██╗    ██╗██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
 --██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗████╗ ████║██║    ██║██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
